@@ -91,6 +91,14 @@ The project will generate:
 - plots of time-dependent expectation values in `figures/`;
 - examples of decoherence and relaxation dynamics.
 
+## Example Results
+
+The simulation generates time-dependent expectation values for a two-level quantum system coupled to a bosonic environment.
+
+### Open-System Expectation Values
+
+![Open-system expectation values](figures/open_system_expectation_values.png)
+
 ## Status
 
 This repository is under active development.
